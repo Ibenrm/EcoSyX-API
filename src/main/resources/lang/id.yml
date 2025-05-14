@@ -1,0 +1,36 @@
+general:
+  usage: "Gunakan: /economy help"
+  no-permission: "&cKamu tidak memiliki izin perintah!"
+  no-player: "&cPerintah ini hanya bisa dijalankan pemain!"
+  notfound: "Pemain &d{username} &ftidak ditemukan!"
+add:
+  usage: "Gunakan: /economy add <userName> <amount>"
+  success: "Kamu menambahkan uang &a+&dRp{amount} &fkepada &d{username}"
+  getmoney: "Kamu telah mendapatkan uang &a+&dRp{amount} &fdari &d{fromusername}"
+  title: "&l&aMenerima Uang"
+  subtitle: "&fsilakan cek /money"
+set:
+  usage: "Gunakan: /economy set <userName> <amount>"
+  success: "Berhasil merubah uang &d{username} &fmenjadi &dRp{amount} "
+  getmoney: "Uang mu di set menjadi &dRp{amount} &fdari &d{fromusername}"
+  title: "&l&6Pengaturan Uang"
+  subtitle: "&fsilakan cek /money"
+pay:
+  usage: "Gunakan: /economy pay <userName> <amount>"
+  success: "Berhasil memberi uang &a+&dRp{amount} &fkepada &d{username}"
+  getmoney: "Pemain &d{fromusername} &fmemberi kamu uang &a+&dRp{amount}"
+  notenough: "&cUangmu tidak cukup memberi &dRp{amount}"
+  samepeople: "&cKamu tidak bisa memberi uang ke diri sendiri!"
+  title: "&l&aBayar Berhasil"
+  subtitle: "&fsilakan cek /money"
+reduce:
+  usage: "Gunakan: /economy reduce <userName> <amount>"
+  success: "Berhasil mengurangi uang &d{username} &fnominal &c-Rp{amount}"
+  getmoney: "Uangmu berkurang &c-Rp{amount} &fdari &d{fromusername}"
+  title: "&l&6Pengurangan uang"
+  subtitle: "&fsilakan cek /money"
+getmoney:
+  usage: "Gunakan: /economy reduce <userName> <amount>"
+  success: "Pemain &d{username} memiliki uang &dRp{amount}"
+mymoney:
+  success: "Kamu memiliki uang Rp{amount}"

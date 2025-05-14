@@ -1,0 +1,9 @@
+lang: id
+type-money: "Rp"
+serverName: "&l&a[ &6Server&dName &a]&r&f"
+moneyLogin: 1000
+permissions:
+  add: eco.op.addmoney
+  set: eco.op.setmoney
+  give: eco.op.givemoney
+  reduce: eco.op.reducemoney
