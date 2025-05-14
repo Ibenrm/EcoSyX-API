@@ -1,4 +1,4 @@
-# EasyLogin
+# EcoSyX
 **This is plugin Economy Support API for PaperMC 1.21.4**
 
 <img src="https://github.com/Ibenrm/EcoSyX-API/blob/main/img/2025-05-14_16.47.48.png" alt="EasyLogin" width="50%">
