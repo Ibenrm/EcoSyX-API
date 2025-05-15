@@ -4,7 +4,6 @@ main: org.ibenrm01.ecoSyX.EcoSyX
 api-version: '1.21'
 authors: [ Ibenrm01 ]
 description: This is EasyLogin Plugins
-depend: [ EasyLogin ]
 commands:
   economy:
     description: "money economy"
